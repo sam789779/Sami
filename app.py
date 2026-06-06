@@ -80,7 +80,7 @@ st.markdown("""
         border-radius: 2px;
     }
 </style>
-""", unsafe_type="html")
+""", unsafe_allow_html=True)
 
 
 # ==========================================
